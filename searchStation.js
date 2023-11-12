@@ -20,7 +20,7 @@ submitbtn8.addEventListener('click',()=>{
         const options = {
             method: 'GET',
             headers: {
-                'X-RapidAPI-Key': '3c643db7cfmshac142d430fa60e8p1c9a69jsnabd27fb5a160', // Change rapidapi key here
+                'X-RapidAPI-Key': '08f689522dmsh64c29d99c66825fp15d50bjsn341dd87ae9a7', // Change rapidapi key here
                 'X-RapidAPI-Host': 'irctc1.p.rapidapi.com'
             }
         };
